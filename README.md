@@ -1,0 +1,2 @@
+# InsurancePrediction
+Linear Regression model 
